@@ -1,0 +1,16 @@
+node_modules/
+.venv/
+dist/
+data/
+.env*
+__pycache__/
+*.log
+*.tsbuildinfo
+.npm-cache/
+outputs/demo/previews/
+outputs/demo/*.ndjson
+.netlify/
+backups/
+outputs/demo/source.json
+outputs/demo/schema.json
+!/.env.example
